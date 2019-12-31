@@ -1,7 +1,22 @@
 {
-  "name": "tmp",
+  "name": "@sagacious/template-vue",
   "version": "0.1.0",
-  "private": true,
+  "keywords": [
+    "template",
+    "vue"
+  ],
+  "author": {
+    "name": "SagaciousLittle",
+    "email": "guoxiaozhuang4@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SagaciousLittle/sagacious-template-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SagaciousLittle/sagacious-template-vue/issues"
+  },
+  "homepage": "https://github.com/SagaciousLittle/sagacious-template-vue#readme",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
